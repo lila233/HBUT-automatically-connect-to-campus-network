@@ -4,12 +4,16 @@
 #### 下面是步骤
 1. 下载对应浏览器相应版本的WebDrive
 例如我的chrome版本就是124开头的，就去https://googlechromelabs.github.io/chrome-for-testing/里去找对应的版本的WebDrive
+
 ![image](https://github.com/lila233/HBUT-automatically-connect-to-campus-network/assets/114989021/b50e3c38-c0a7-4215-8900-24380620bbc8)
+
 下载相应的系统版本的即可
+
 ![image](https://github.com/lila233/HBUT-automatically-connect-to-campus-network/assets/114989021/908dd6d7-f7c1-4285-8467-8bab90b57918)
+
 自己选择解压缩路径，等会脚本里会用到
 
-2. 将脚本内容替换为自己的信息
+3. 将脚本内容替换为自己的信息
 一共有四个地方需要修改，分别对应着校园网登录时的用户名，密码和运营商
 ![image](https://github.com/lila233/HBUT-automatically-connect-to-campus-network/assets/114989021/f847ba04-b350-4ab2-a1bb-4c07f3caff3f)
 
