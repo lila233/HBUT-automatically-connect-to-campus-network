@@ -21,10 +21,12 @@
 
 3. 开机自启动
 在C:\Users\xxxx\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup (xxxx为你自己的用户名，注意一下其中里面的user，programs等目录可能会按照你系统的语言进行本地化）路径下创建一个txt文件内容为
+
 `
 @echo off
 
 python xxxxxx
 `
+
 其中xxxxxx为py脚本的具体地址
 然后将其后缀改为.bat即可在开机后自动运行你的python脚本了
