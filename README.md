@@ -24,7 +24,6 @@
 
 `
     @echo off
-
     python xxxxxx
 `
 
