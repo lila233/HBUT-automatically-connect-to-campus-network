@@ -3,7 +3,8 @@
 
 #### 下面是步骤
 1. 下载对应浏览器相应版本的WebDrive
-例如我的chrome版本就是124开头的，就去https://googlechromelabs.github.io/chrome-for-testing/里去找对应的版本的WebDrive
+例如我的chrome版本就是124开头的，就去https://googlechromelabs.github.io/chrome-for-testing/
+里去找对应的版本的WebDrive
 
 ![image](https://github.com/lila233/HBUT-automatically-connect-to-campus-network/assets/114989021/b50e3c38-c0a7-4215-8900-24380620bbc8)
 
