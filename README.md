@@ -12,7 +12,8 @@
 2. 将脚本内容替换为自己的信息
 一共有四个地方需要修改，分别对应着校园网登录时的用户名，密码和运营商
 ![image](https://github.com/lila233/HBUT-automatically-connect-to-campus-network/assets/114989021/f847ba04-b350-4ab2-a1bb-4c07f3caff3f)
-剩下一个是你刚刚解压缩的chromedrive.exe的路径
+
+还剩下一个是你刚刚解压缩的chromedrive.exe的路径
 
 3. 开机自启动
 在C:\Users\xxxx\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup (xxxx为你自己的用户名，注意一下其中里面的user，programs等目录可能会按照你系统的语言进行本地化）路径下创建一个txt文件内容为
